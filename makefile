@@ -19,4 +19,4 @@ test:
 	npm run test
 
 clear:
-	rm -rf ./build
+	rm -rf ./build ./@types
